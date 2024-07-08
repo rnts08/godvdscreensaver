@@ -1,0 +1,5 @@
+_build/
+_backup/
+*.bak
+*.obj
+*.tmp
